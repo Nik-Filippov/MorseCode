@@ -1,0 +1,1 @@
+web: java -jar target/morsecode-converter-0.0.1.jar

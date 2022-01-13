@@ -1,0 +1,85 @@
+.morseCodeEntriesClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+    padding-bottom: 10px;
+}
+
+.morseCodeTitleClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+    color: LightSteelBlue;
+}
+
+.morseCodeTopEntriesClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.morseCodeBottomEntriesClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+    padding-bottom: 50px
+}
+
+.morseCodeButtonClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 175px;
+}
+
+.morseCodeRadioButtonsClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.morseCodeDownloadClass {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.morseCodeFooterClass {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    adding-top: 10px;
+    color: LightSteelBlue;
+}
+
+.morseCodeTopFooterClass{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 1px;
+    padding-top: 80px;
+    color: LightSteelBlue;
+}
+
+.morseCodeGridClass{
+    display: flex;
+    align-items: flex-start;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%;
+}

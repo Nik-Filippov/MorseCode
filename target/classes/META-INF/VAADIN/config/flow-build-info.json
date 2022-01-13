@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": true,
+  "npmFolder": "/Users/nikitafilippov/Projects/MorseCode",
+  "generatedFolder": "/Users/nikitafilippov/Projects/MorseCode/target/frontend",
+  "frontendFolder": "/Users/nikitafilippov/Projects/MorseCode/frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}

@@ -1,0 +1,8 @@
+//In IDE Maven menu --->
+Check "npm" & "production" boxes
+morsecode-converter -> Lifecycle -> install
+
+// In terminal
+cd Projects/MorseCode/
+heroku login
+heroku deploy:jar target/morsecode-converter-0.0.1.jar --app morsecodes
