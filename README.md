@@ -1,5 +1,5 @@
-# PDF Converter
+# Morse Code Converter
 
-Helps online users to create PDF documents.
+Helps online users to convert from morse code to english and back.
 
- - Primarily attached to Heroku Platform and available under (https://pdfConverter.org).
+ - Primarily attached to Heroku Platform and available under (http://morsecodes.herokuapp.com).
